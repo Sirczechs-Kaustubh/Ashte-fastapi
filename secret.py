@@ -1,0 +1,5 @@
+JWT_SECRET="Home0Sapiet"
+JWT_ALGORITHM="HS256"
+site_url="http://127.0.0.1:8000"
+secret_id = "rzp_test_9KKNyE2g1tUHvu"
+secret_key = "KEmlV0vFMLjyTwNOX3m6bYQ6"
